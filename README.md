@@ -18,3 +18,10 @@ jupyter-lab
 ### Запуск команд bash из Jupiter Lab
 
 Чтобы запустить команды `bash` в Jupiter Lab из Windows, нужно запускать `jupyter-lab` не из `cmd`, а из `bash` ([Git Bash](https://gitforwindows.org/) или [Ubuntu on Windows](https://ubuntu.com/tutorials/ubuntu-on-windows)).
+
+## Git: Забрать изменения из оригинального репозитория
+
+```bash
+git pull upstream main
+```
+
